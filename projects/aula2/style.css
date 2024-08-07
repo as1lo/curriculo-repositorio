@@ -1,0 +1,12 @@
+body {
+    color:black;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+#img-curriculum{
+    border-radius: 50%;
+    box-shadow: 3px 3px 5px;
+    
+}
+
